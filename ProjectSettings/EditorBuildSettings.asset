@@ -4,5 +4,10 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
-  m_configObjects: {}
+  m_Scenes:
+  - enabled: 1
+    path: Assets/MetaAvatarsTemplate/Scenes/MetaAvatar2Pun.unity
+    guid: c2a6d6239126ef545ba41addbeccd081
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 498c4224e45e87b4ba4a518c2d86b377, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 8eb237e6e6f47bd4aaf17a4a53fcdb3d, type: 2}
